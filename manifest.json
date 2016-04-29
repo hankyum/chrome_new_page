@@ -5,6 +5,9 @@
   "permissions": [
     "activeTab"
   ],
+  "icons": {
+    "16": "badge.png"
+  },
   "background": {
     "scripts": ["background.js"],
     "persistent": false
