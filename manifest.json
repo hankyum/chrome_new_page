@@ -6,7 +6,8 @@
     "activeTab"
   ],
   "icons": {
-    "16": "badge.png"
+    "16": "badge.png",
+    "128": "badge.png"
   },
   "background": {
     "scripts": ["background.js"],
